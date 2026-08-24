@@ -1,6 +1,10 @@
  # PRIYANSHU KUMAR
 🔭 I’m currently working on AI-powered products, Full Stack Development, and Computer Vision applications.<br><br>👯 I’m looking to collaborate on Open Source, AI/ML, Full Stack, and Hackathon projects.<br><br>🤝 I’m looking for help with Cloud Architecture (AWS), DevOps, and Scalable System Design.<br><br>🌱 I’m currently learning Generative AI, LangChain, LangGraph, AWS, Docker, Kubernetes, and Microservices.<br><br>💬 Ask me about Java, Python, React, SQL, DSA, AI, Machine Learning, and Web Development.<br><br>⚡ Fun fact: I enjoy solving challenging coding problems, building AI applications, and continuously exploring new technologies.
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="1-priyanshukumar's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-561793342) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k24.cs1m2412713@gmail.com) 
